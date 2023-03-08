@@ -1,5 +1,5 @@
 # Tribute Page
-One Of The FreeCodeCamp Responsive Web Design Certificate Project
+One Of The FreeCodeCamp Responsive Web Design Certificate Projects
 
 ## User Stories:
 1. Your tribute page should have a main element with a corresponding id of main, which contains all other elements
